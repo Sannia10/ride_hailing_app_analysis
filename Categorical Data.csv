@@ -1,0 +1,847 @@
+Driver ID,Ride Classification,Rating Classification,Working Days,Working Hours/Day,% rejection
+20553,Above Average, Medium,Low, Medium,Low
+20582,Below Average, Medium,Low,Low,Low
+20608,Above Average,Low,High,High,Low
+20673,Above Average,Low,High,High,Low
+20688,Below Average,High,Low,Low,Low
+20694,Below Average, Medium,Low,Low,Low
+20724,Below Average, Medium,High,High, Medium
+20732,Above Average, Medium,Low,High,Low
+20736,Above Average, Medium,High,High,Low
+20737,Above Average, Medium,High,High,Low
+20738,Below Average,High,Low,Low, Medium
+20741,Below Average,High,Low,Low,Low
+20744,Above Average, Medium, Medium,High,High
+20748,Above Average,Low,High,High,Low
+20754, Average,Low, Medium,High,High
+20755, Average,Low,Low,High,Low
+20762,Above Average,Low,High,High,Low
+20785,Above Average, Medium,High,High,High
+20795, Average, Medium,Low, Medium,Low
+21512, Average, Medium,High,Low,Low
+21644,Below Average, Medium, Medium,Low,Low
+21659,Below Average,High,Low,Low,Low
+22008,Above Average,Low,High,High,Low
+22039,Below Average,High,Low,Low, Medium
+22074,Above Average, Medium,High,High,Low
+22134,Above Average, Medium,Low,High,Low
+22535, Average, Medium, Medium,High,Low
+22605, Average,Low,Low, Medium,Low
+24176,Below Average,Low,Low,Low,Low
+24209,Below Average,High, Medium,Low,Low
+25280,Above Average, Medium, Medium,High,Low
+27963,Below Average,High,Low,Low,Low
+28179, Average,Low, Medium, Medium,Low
+28867,Below Average,High,Low,Low,Low
+29921,Below Average,Low,Low,Low,Low
+30141, Average, Medium,High,High, Medium
+30332,Above Average,Low,High,High,Low
+31294,Below Average, Medium,Low, Medium,Low
+31326,Below Average, Medium,Low,Low,Low
+31430,Below Average,High,Low,Low,Low
+31602,Above Average, Medium,High,High,Low
+32017,Below Average, Medium,Low, Medium,Low
+32197,Above Average,Low,High,High, Medium
+32598,Above Average,Low, Medium, Medium,Low
+32965,Below Average,High,Low,Low,Low
+33149,Above Average,Low,High,High,Low
+33349,Above Average,Low, Medium,High, Medium
+33351,Above Average,High,Low,High,Low
+33352,Above Average, Medium,Low,High,Low
+33679, Average,Low, Medium, Medium,Low
+33711,Above Average,High,Low,High,Low
+33829,Below Average, Medium,Low,Low,Low
+33843,Above Average,Low,Low,High,Low
+33854,Above Average, Medium,Low, Medium,Low
+33891,Below Average,High,Low,Low,Low
+33910,Below Average,High,Low,Low,Low
+34094,Below Average,High,Low,Low,Low
+34120,Above Average,Low,Low,High,Low
+34262,Above Average,Low, Medium,High,High
+34409,Below Average,High,Low,Low,Low
+34460,Below Average,Low,Low,Low,Low
+34581,Above Average,Low, Medium,High,Low
+34589,Above Average,Low,High,High,Low
+34608, Average,Low,High, Medium,Low
+34695, Average,Low,High, Medium,High
+34807, Average,Low, Medium,High,Low
+34818, Average, Medium, Medium, Medium,Low
+34844, Average, Medium,Low,Low,High
+34965,Below Average,High,Low,Low,Low
+34970,Above Average,Low, Medium,High,Low
+34992,Below Average, Medium, Medium, Medium,Low
+35033,Above Average, Medium, Medium, Medium,Low
+35136, Average, Medium,Low, Medium,Low
+35304, Average, Medium,Low, Medium,Low
+35482,Below Average,High, Medium,Low,Low
+35493,Below Average,Low, Medium, Medium,Low
+35709, Average,Low, Medium, Medium,Low
+35723,Below Average,High,Low,Low,Low
+36531,Below Average,High, Medium,Low,Low
+36545,Above Average, Medium, Medium,High,Low
+36559, Average,High,Low,High,Low
+36596, Average, Medium,High,High,Low
+36670,Below Average,High,Low,Low,Low
+36715, Average,High,Low,Low,Low
+36725,Below Average,High,Low,Low,Low
+36808,Below Average,Low, Medium,Low,Low
+36878,Below Average, Medium,Low, Medium, Medium
+36882, Average,Low, Medium, Medium, Medium
+36891, Average,Low,Low,Low,Low
+36908,Below Average,High,Low,Low,Low
+37060,Below Average,High,Low,Low,Low
+37078, Average,Low,Low,High,Low
+37094,Below Average,Low,Low,Low, Medium
+37124,Below Average,Low,Low,High,Low
+37145,Above Average, Medium,High,High,Low
+37157,Below Average, Medium, Medium, Medium,Low
+37167,Above Average, Medium,High,High,Low
+37229,Above Average,High,Low,High,Low
+37233,Above Average, Medium,Low,High,Low
+37237,Below Average,High,Low,Low,Low
+37239,Below Average,High,Low, Medium,Low
+37248, Average,Low,Low,High,Low
+37259,Above Average,Low,Low,High,Low
+37277,Below Average,High,Low,Low,Low
+37325, Average,Low,High, Medium,Low
+37331,Below Average,Low,Low,Low,Low
+37488,Below Average,Low,High,High,Low
+37489,Below Average,High,Low, Medium, Medium
+37612,Below Average,Low,Low,Low,Low
+37623,Below Average,High,Low,Low,Low
+37626,Below Average,High,Low,Low,Low
+37629,Below Average,High,Low,Low, Medium
+37639, Average,High,Low,High,Low
+37650,Above Average, Medium,High,High, Medium
+37659,Below Average, Medium,Low,Low,Low
+37669,Above Average,Low,High,High,Low
+37861, Average,High,Low, Medium,Low
+37909,Above Average, Medium,Low,High,Low
+37955, Average,High,Low,Low,Low
+37982,Above Average, Medium,Low,High,Low
+37987,Below Average,High,Low,Low,Low
+38271,Below Average,High,Low,Low,Low
+38302,Below Average, Medium,Low,Low,Low
+38338,Above Average,Low,Low,High, Medium
+38352,Above Average,Low, Medium,High,Low
+38397,Below Average,High,Low, Medium,Low
+38463,Below Average, Medium,High,Low,Low
+38501,Above Average, Medium,Low,High,Low
+38513,Below Average,High,Low,Low,Low
+38531,Below Average,High,Low,Low,Low
+38580,Below Average,High,Low,Low,Low
+38882,Below Average, Medium, Medium,Low,Low
+38899,Below Average,Low,Low, Medium,Low
+38902,Below Average,High,Low,Low,Low
+38909,Above Average, Medium,High,High,Low
+38930,Above Average, Medium,Low,High,Low
+38943,Below Average,High,Low,Low,Low
+39005,Below Average,Low,Low,Low,Low
+39006, Average, Medium, Medium, Medium,Low
+39023,Below Average,Low,Low,Low,Low
+39054,Below Average, Medium,Low, Medium,Low
+39058,Above Average, Medium,Low,High,Low
+39201,Above Average, Medium,High,High,High
+39215,Above Average,Low,High,High,Low
+39240,Below Average,High,Low,Low,Low
+39251, Average,Low,Low,Low,Low
+39285,Below Average,High,Low,Low,Low
+39287,Above Average,Low,Low,High,Low
+39291,Above Average,Low,Low,High,Low
+39309,Above Average,Low,High,High,Low
+39480, Average,High,Low, Medium,Low
+39495,Above Average,Low,Low,High,Low
+39500,Below Average,Low,Low,Low,Low
+39512,Below Average,Low,Low, Medium,Low
+39537,Above Average, Medium, Medium,High,Low
+39562, Average,Low,High, Medium,Low
+39570, Average,Low,Low, Medium,Low
+39580,Below Average,High,Low,Low,Low
+39588, Average, Medium,High,Low,Low
+39594,Below Average,High,Low,Low,Low
+39642,Below Average,High,Low,Low,Low
+40168, Average,Low,Low, Medium, Medium
+40242,Below Average,High,Low, Medium,Low
+40382,Below Average, Medium,Low,Low,Low
+40412, Average, Medium,Low,High,Low
+40422,Below Average, Medium,Low,Low,Low
+40736,Below Average,High,Low,Low,Low
+40792,Below Average,High,Low,Low,Low
+40952,Below Average, Medium, Medium,Low,Low
+41008,Above Average, Medium,Low,High,Low
+41373, Average,Low,Low,Low,Low
+41387,Below Average,High,Low,Low,Low
+41422,Above Average, Medium,High,High, Medium
+41496,Below Average,Low,Low,Low,Low
+41517,Above Average, Medium,High,High,Low
+42092,Below Average,High,Low,Low,Low
+42227,Above Average,Low,High,High,Low
+42230, Average,Low,Low, Medium,Low
+42370, Average, Medium, Medium, Medium,Low
+42424,Below Average,High,Low, Medium,Low
+42485, Average, Medium,High,High,Low
+42713,Below Average,Low,Low,Low,Low
+42896,Below Average, Medium, Medium, Medium,Low
+42926,Below Average,High,Low,Low,Low
+43158,Below Average,Low,Low,Low,Low
+43173,Below Average,Low,Low,Low,Low
+43367,Above Average, Medium,High,High,Low
+43382, Average,Low,High, Medium,Low
+43407,Below Average,High,Low,Low,Low
+43448,Below Average,High,Low,Low,Low
+43452,Above Average,Low,Low,High,Low
+43458,Above Average, Medium, Medium,High,Low
+43465, Average,Low,Low,High,Low
+43842,Below Average,High,Low,Low,Low
+43877, Average,Low,High,High,Low
+43937,Below Average,Low,Low,Low,Low
+43941,Above Average, Medium,High,High,High
+43947, Average,Low,Low, Medium,Low
+44068,Below Average,Low,Low, Medium,Low
+44076,Above Average,Low,High,High,Low
+44107,Above Average,Low, Medium,High,Low
+44128,Above Average,Low,Low,High,Low
+44179,Above Average,Low,Low,High,High
+44189,Below Average,Low,Low,Low,Low
+44377,Below Average, Medium,Low,Low,Low
+44440, Average,Low,High,High,Low
+44593,Above Average,High,Low,High,Low
+44608, Average,Low,Low, Medium,Low
+44642,Below Average,Low,Low, Medium,Low
+44646,Above Average,High,Low,High,Low
+44656,Above Average,Low,High,High,Low
+44877,Below Average,Low,Low,Low,Low
+44894,Above Average,Low,High,High, Medium
+44906,Below Average, Medium,Low,Low,Low
+45038,Above Average, Medium, Medium,High,Low
+45052,Above Average,Low,Low,High, Medium
+45783,Above Average,Low,High,High,Low
+45874,Below Average,Low,Low,Low,Low
+45881,Below Average,Low,Low, Medium,Low
+46014,Below Average,High,Low,Low,Low
+46095,Below Average, Medium,Low,Low,Low
+46391,Below Average,Low,Low,Low,Low
+46507, Average,Low,High,High,Low
+46510, Average, Medium, Medium, Medium,Low
+46513,Below Average,Low,Low,Low,Low
+46607,Below Average,Low,Low,High,Low
+46817, Average, Medium,High, Medium,Low
+47119,Below Average,High,Low,Low,Low
+47312,Below Average,High,Low,Low,Low
+47318,Below Average,High,Low,Low,Low
+47384,Below Average,High,Low,Low,Low
+47438,Below Average,High,Low,Low,High
+47445,Below Average,High,Low,Low, Medium
+47595,Below Average,High,Low,Low,Low
+47768,Below Average,High,Low,Low,Low
+47772,Below Average,High,Low,Low,Low
+47831,Above Average, Medium,Low,High, Medium
+47853,Below Average,Low,Low,Low,Low
+48219,Below Average, Medium,Low, Medium,Low
+48220,Below Average,High,Low, Medium,High
+48237,Above Average,Low,Low, Medium,Low
+48270,Below Average,High,Low,Low,Low
+48310,Below Average,Low,Low,Low,Low
+48489,Below Average,Low,Low,Low,Low
+48506,Above Average, Medium, Medium,High,Low
+48512,Below Average,High,Low,Low,Low
+48539,Above Average, Medium,Low,High,Low
+48597, Average,Low,Low,High,Low
+48742,Above Average, Medium, Medium,High,Low
+48995,Below Average,High,Low,Low,Low
+49006,Above Average, Medium, Medium,High,Low
+49064, Average, Medium,Low,High,Low
+49070,Above Average,Low, Medium, Medium,Low
+49085,Below Average, Medium,Low,Low,High
+49096,Below Average,High,Low, Medium,Low
+49258, Average, Medium,Low, Medium, Medium
+49321,Above Average,Low,High,High,Low
+49358,Below Average,High,Low,Low,High
+49460,Below Average, Medium,Low,Low,Low
+49472,Above Average,High,Low,Low,Low
+49495, Average,Low, Medium, Medium,Low
+49532, Average,High,Low,High, Medium
+49534,Below Average,High,Low, Medium,Low
+49674, Average,High,Low,High,Low
+49927,Below Average,High,Low,Low,Low
+49993,Below Average,Low, Medium, Medium,High
+50042,Below Average,High,Low,Low,Low
+50155,Below Average,High,Low,Low,Low
+50201, Average,Low,Low, Medium,Low
+50209, Average,Low,High, Medium,High
+50730, Average,Low,Low, Medium,Low
+50782,Above Average, Medium, Medium,High,Low
+50805,Below Average,High,Low,Low,Low
+50817,Below Average,High,Low,Low,Low
+50843,Below Average,High,Low,Low,Low
+50848,Below Average,High,Low,Low,Low
+50852,Below Average,High,Low,Low,Low
+50982,Above Average,Low,High,High,Low
+51070,Below Average,High,Low,Low,Low
+51282, Average,Low, Medium, Medium,Low
+51433,Above Average, Medium,Low, Medium,Low
+51482,Below Average,High,Low,High,Low
+51535,Above Average,Low,Low,Low,Low
+51631,Below Average,High,Low,Low,Low
+51634,Below Average,High,Low,Low, Medium
+51638,Below Average,High,Low,Low,Low
+51647,Above Average,Low,Low, Medium, Medium
+51670,Below Average, Medium,Low,Low,Low
+51729, Average,Low,Low,Low,Low
+51745,Above Average, Medium,Low,High,Low
+51882, Average, Medium, Medium, Medium,Low
+51928,Below Average,Low,Low, Medium,Low
+52395,Above Average,Low,Low,High,Low
+52396,Below Average, Medium,Low, Medium,Low
+52419, Average,Low,Low,Low,Low
+52425,Below Average, Medium, Medium,Low,Low
+52457,Above Average,Low,Low,High,Low
+52499, Average, Medium,Low,Low,Low
+52927,Below Average,Low,Low,Low,Low
+52978,Below Average,Low,Low, Medium,High
+53016,Below Average, Medium, Medium, Medium,Low
+53022,Below Average,Low,Low,Low,Low
+53151,Below Average,Low,Low,Low,Low
+53209,Below Average,Low,Low,Low,Low
+53235,Below Average,Low,Low,Low,Low
+53329,Below Average,Low,Low,Low,Low
+53345,Above Average,Low,Low,High,Low
+53355,Above Average,Low,Low,High,Low
+53441, Average, Medium, Medium,High, Medium
+53547,Below Average, Medium,Low, Medium,Low
+53574,Above Average,Low,High,High,Low
+53791,Above Average,Low, Medium,High,Low
+54039, Average,Low, Medium,High,Low
+54205,Below Average,High,Low,Low,Low
+54253,Above Average,Low,Low,High,High
+54556,Below Average,Low,Low,Low,Low
+54557,Below Average,High,Low,Low,Low
+54603,Below Average,Low,Low,Low, Medium
+54633,Above Average,Low, Medium,High,Low
+54729,Below Average, Medium,Low,Low,Low
+54818, Average,Low,Low, Medium,Low
+54869,Above Average,Low,Low,High,Low
+54951,Below Average,High, Medium, Medium,Low
+54952, Average,Low, Medium,High,Low
+54964,Below Average,High,Low,Low,Low
+55407, Average,High,High,High, Medium
+55409,Below Average,Low,Low,Low,Low
+55418, Average, Medium, Medium,High,Low
+55567, Average,Low, Medium, Medium,Low
+55569, Average,Low,Low,High,Low
+55584, Average,Low, Medium, Medium,High
+55604,Below Average,Low,Low,Low,Low
+55608,Below Average,High,Low,Low,High
+55613,Above Average,Low,Low, Medium,Low
+55633,Above Average,Low,Low, Medium, Medium
+55664,Below Average,Low,Low,Low,Low
+55667,Above Average, Medium,Low, Medium,Low
+55668,Above Average, Medium,Low, Medium,Low
+55761,Above Average, Medium, Medium,High,Low
+55778, Average, Medium,Low, Medium,Low
+55789,Above Average,Low, Medium, Medium,Low
+55803,Below Average,Low,Low,Low,Low
+55825,Below Average,Low,Low, Medium,Low
+55826,Below Average, Medium,Low,Low,Low
+55833,Below Average,High,Low,Low, Medium
+55835,Below Average,Low,Low,Low,Low
+55836,Above Average,Low, Medium,High,Low
+55840,Below Average,Low,Low,Low,Low
+55963, Average,Low,High,High,Low
+55971,Below Average,Low,Low,Low,Low
+55976,Below Average,Low,Low,Low,Low
+55977,Above Average,Low,Low,Low,Low
+55978,Below Average,High,Low,Low, Medium
+55982,Below Average,Low,Low,Low,Low
+55985, Average,Low,Low, Medium,Low
+55986, Average,Low, Medium, Medium,Low
+55989,Below Average,Low,Low,Low,Low
+55990,Below Average,High,Low,Low,Low
+55992,Below Average, Medium,Low,High,Low
+55995,Below Average,Low,Low,Low,High
+55996,Below Average, Medium,Low,Low, Medium
+56000,Below Average,High,Low,Low,Low
+56003,Above Average,Low, Medium,High,Low
+56016,Below Average,Low,Low,Low,Low
+56022,Above Average,Low,High,High,Low
+56027,Below Average,Low,Low,Low,Low
+56038,Below Average,Low,Low,Low,Low
+56041,Above Average,High,Low,High,Low
+56048,Below Average,Low,Low,Low,Low
+56051, Average,Low, Medium, Medium,Low
+56161,Above Average, Medium,Low,High, Medium
+56177, Average, Medium,Low,High,Low
+56186, Average, Medium,Low,High,Low
+56296,Below Average,Low,Low,Low,Low
+56422,Below Average,Low,Low,Low,Low
+56424,Below Average, Medium,Low, Medium,Low
+56438,Below Average,High,Low,Low,Low
+56443,Below Average,High,Low,Low, Medium
+56447,Below Average,Low,Low,Low,Low
+56468, Average,High,Low,Low,Low
+56595, Average, Medium, Medium, Medium,High
+56656,Below Average,High,Low,High,Low
+56801,Below Average, Medium,Low,Low, Medium
+56814,Above Average,High, Medium,High,Low
+56879,Above Average,High,Low,High,Low
+56896, Average, Medium,Low, Medium,Low
+56904,Above Average, Medium,Low,High,Low
+56905,Below Average,High,Low, Medium, Medium
+56908,Above Average,Low,High,High,Low
+57026,Below Average,High,Low,Low,Low
+57030,Below Average,High, Medium, Medium,Low
+57037,Below Average,Low,Low,Low,Low
+57076,Below Average,Low,Low,Low,Low
+57107,Below Average,Low,Low,Low,Low
+57130,Above Average,Low,Low, Medium,Low
+57134, Average,Low, Medium, Medium,High
+57417,Below Average,Low,Low,Low,Low
+57448, Average,High,Low, Medium,Low
+57452, Average,Low, Medium,High,Low
+57454,Above Average,High, Medium,High,Low
+57489, Average, Medium,Low, Medium, Medium
+57689,Below Average,Low,Low,Low,Low
+57699,Below Average,Low,Low,Low,Low
+57712, Average, Medium,Low, Medium, Medium
+57747,Below Average,Low,Low,Low,Low
+57861,Below Average, Medium,Low, Medium,Low
+57863, Average, Medium,Low,High,Low
+57870, Average, Medium,Low,Low,Low
+57871, Average, Medium, Medium,High,High
+57919,Above Average, Medium,Low, Medium,Low
+57921, Average,High,Low,Low,Low
+58021, Average,Low, Medium,High,Low
+58022,Below Average,Low,Low,Low, Medium
+58025,Below Average,High,Low,High,Low
+58062, Average,Low,High, Medium,Low
+58071,Below Average,Low,Low,High,High
+58099,Above Average,Low,Low,High,Low
+58134,Below Average,High,Low,Low,Low
+58140, Average,Low, Medium,High,High
+58258,Below Average,Low,Low,Low,Low
+58274,Below Average,Low,Low,Low, Medium
+58282, Average, Medium,Low, Medium,Low
+58293, Average,High,Low, Medium,Low
+58300,Below Average,Low,Low,Low,Low
+58447,Below Average,Low,Low,Low,Low
+58454,Above Average,Low,Low,High,Low
+58463,Below Average,Low,Low, Medium,High
+58470,Below Average,Low,Low,Low,Low
+58481, Average,High,Low, Medium,Low
+58492,Below Average,Low,Low,Low,Low
+58493,Below Average,High,Low,High,Low
+58499, Average, Medium,Low, Medium, Medium
+58506, Average,Low,Low,High,Low
+58514,Above Average,Low, Medium, Medium,High
+58534,Above Average,Low, Medium,High,Low
+58548,Below Average,Low,Low,Low,Low
+58550,Below Average,High,Low,Low,Low
+58564, Average, Medium,Low,High,Low
+58803,Below Average, Medium,Low,High,Low
+58813, Average,Low, Medium,High,Low
+58818,Above Average,Low, Medium, Medium,Low
+58830,Below Average,High,Low, Medium, Medium
+58858,Below Average, Medium,Low, Medium,Low
+58882,Above Average,Low,Low,High,Low
+58892,Below Average,Low,Low,Low,Low
+58893,Above Average, Medium,Low, Medium,Low
+58963,Below Average,Low,Low,Low,Low
+59212,Above Average,Low,Low, Medium,Low
+59214,Below Average,Low,Low,Low, Medium
+59231, Average, Medium,Low,Low,High
+59232, Average,High,Low,High,Low
+59233, Average, Medium,Low, Medium,Low
+59253,Below Average, Medium,Low,Low,Low
+59276,Below Average,Low,Low,Low,Low
+59291, Average, Medium,Low,High, Medium
+59292,Above Average,Low,High,High,Low
+59293,Below Average,Low,Low,Low,Low
+59295,Below Average,Low,Low,Low,Low
+59308,Below Average,High,Low,Low,Low
+59319,Below Average,High,Low,Low,Low
+59322,Below Average,Low,Low,Low,Low
+59333, Average,Low,Low, Medium,Low
+59342,Below Average,Low,Low,Low,Low
+59356,Below Average,Low,Low,Low,Low
+59447,Above Average,Low,Low, Medium,Low
+59461,Below Average,High,Low, Medium,High
+59464,Below Average,High,Low,Low,Low
+59472, Average, Medium,High, Medium,High
+59488, Average,High,Low, Medium,Low
+59489,Above Average, Medium,Low,High,High
+59490, Average,High,Low,High, Medium
+59542,Below Average,High,Low,Low,High
+59561, Average,Low, Medium, Medium,Low
+59571, Average,Low,Low,High,Low
+59581, Average,High,Low,High,Low
+59584, Average, Medium,Low,Low, Medium
+59586,Above Average,Low,Low, Medium,Low
+59653, Average,High,Low, Medium,High
+59721,Above Average, Medium,Low, Medium,Low
+59740,Below Average,Low,Low,High, Medium
+59743,Above Average,Low, Medium,High,Low
+59785,Below Average,Low,Low,Low,Low
+59818, Average,Low, Medium, Medium,High
+59848,Below Average,High,Low,High,Low
+59851, Average,Low,Low, Medium,Low
+59870,Above Average,Low,Low, Medium,Low
+59878,Below Average,High,Low,Low,High
+59900, Average, Medium, Medium, Medium,Low
+59921,Above Average,Low, Medium,High,Low
+60065,Below Average,Low,Low,Low,Low
+60067,Below Average,High,Low,Low,Low
+60069,Above Average,Low, Medium, Medium,Low
+60107, Average, Medium,Low, Medium,Low
+60116,Below Average,Low,Low,Low,Low
+60117,Above Average,Low, Medium,High,Low
+60132,Below Average,Low,Low,Low,Low
+60135,Above Average,Low,Low,High,Low
+60146, Average,High,Low,Low, Medium
+60150, Average, Medium,Low, Medium, Medium
+60157,Below Average,Low,Low,Low,High
+60158,Below Average,Low, Medium, Medium,Low
+60163,Below Average,High,Low,Low,Low
+60186,Below Average,High,Low,Low,Low
+60203,Below Average,Low,Low,Low, Medium
+60207, Average,Low,Low,High,Low
+60208, Average, Medium,Low, Medium,High
+60210,Below Average,High,Low,High,Low
+60232,Above Average,Low,Low,High,Low
+60394,Below Average,High,Low,Low,Low
+60703,Above Average,Low,Low,High,Low
+60714, Average,Low,Low, Medium,Low
+60723,Below Average,Low,Low, Medium,Low
+60725, Average, Medium,Low,High,Low
+60726,Below Average,Low,Low, Medium,Low
+60732,Below Average,Low,Low, Medium,Low
+60736,Below Average,Low,Low,Low,Low
+60756,Above Average,Low, Medium,High,Low
+60759, Average,High,Low,Low,High
+60784, Average, Medium,Low,Low, Medium
+60788,Below Average,Low,Low,Low,Low
+60801, Average,Low, Medium, Medium,Low
+60816, Average,Low,Low,Low,High
+60824,Below Average,Low,Low,Low,Low
+60853,Above Average, Medium,Low,High,Low
+60890,Above Average,Low, Medium,High,Low
+60914, Average, Medium,Low,Low,Low
+61048,Below Average,Low,Low,Low,High
+61049, Average,Low, Medium, Medium,Low
+61054,Below Average, Medium,Low, Medium,High
+61059, Average,Low,Low,High,Low
+61122, Average,High,Low,High,Low
+61182,Below Average,Low,Low, Medium,Low
+61192,Below Average,Low,Low,Low,Low
+61396,Below Average,Low,Low,Low,Low
+61409,Below Average, Medium,Low,Low,Low
+61423,Below Average,High,Low,Low,Low
+61467,Below Average,Low,Low,Low,Low
+61512,Above Average, Medium,Low, Medium,Low
+61592,Above Average,Low,Low,High,Low
+61749, Average,Low,Low, Medium,Low
+61765, Average,Low,Low,High,Low
+61798, Average,Low,Low,Low,Low
+61801,Below Average, Medium,Low,Low, Medium
+61803,Above Average,Low, Medium,High,Low
+61808,Below Average,High,Low,Low,Low
+61817,Below Average,Low,Low,Low, Medium
+61819,Below Average,Low,Low,Low,Low
+61890,Below Average, Medium,Low,Low,Low
+61891, Average, Medium,Low,High,Low
+62089, Average,Low, Medium,High,High
+62090,Below Average,High,Low,Low,Low
+62174, Average, Medium,Low, Medium,Low
+62229,Below Average, Medium,Low,Low,Low
+62255,Below Average,Low,Low,Low, Medium
+62376,Above Average,Low,Low,High,High
+62378, Average, Medium,Low, Medium,Low
+62405,Above Average,Low, Medium,High, Medium
+62409,Below Average, Medium,Low,High,Low
+62415, Average,Low, Medium, Medium,Low
+62418,Above Average, Medium,Low,High,Low
+62419,Below Average, Medium,Low,Low, Medium
+62423, Average,Low, Medium,High,Low
+62426,Below Average,Low,Low,Low,Low
+62438,Below Average,Low,Low,Low, Medium
+62477, Average, Medium,Low,High,Low
+62492, Average,Low,Low, Medium, Medium
+62825,Above Average,Low,Low,High,Low
+62826,Below Average,High,Low,Low,Low
+62831,Below Average,High,Low,Low, Medium
+62853,Above Average,Low, Medium,High,Low
+62858,Above Average,Low,Low,High,Low
+62859,Above Average,Low,Low, Medium,Low
+62866,Below Average,High,Low,Low,Low
+62879, Average, Medium,Low, Medium,Low
+62883, Average,High,Low, Medium,Low
+62884, Average,Low,Low,Low,Low
+62901, Average,High,Low,Low,Low
+62902,Below Average, Medium,Low, Medium,Low
+62904,Above Average,Low,Low, Medium,Low
+62937, Average,High,Low, Medium,Low
+62941,Below Average,High,Low, Medium,Low
+62970,Above Average, Medium, Medium,High,Low
+63131,Below Average,Low,Low,Low,Low
+63135, Average,Low,Low,Low, Medium
+63137,Below Average,Low,Low,Low,Low
+63141, Average,High,Low, Medium,Low
+63145,Below Average,Low,Low, Medium,Low
+63149,Below Average,Low,Low,Low,Low
+63161,Below Average, Medium,Low,High,Low
+63199, Average,High,Low,Low,High
+63206,Below Average,Low,Low,Low, Medium
+63208, Average,Low,Low, Medium,Low
+63209,Below Average,High,Low,Low,Low
+63224,Below Average,High,Low,Low,Low
+63231, Average, Medium,Low,High,Low
+63236,Above Average, Medium,Low,High, Medium
+63240,Below Average, Medium,Low,Low,Low
+63243,Below Average,Low,Low,Low, Medium
+63407,Below Average,Low,Low,Low,Low
+63410,Below Average, Medium,Low, Medium,Low
+63412,Above Average,Low,Low, Medium, Medium
+63426,Below Average,Low,Low, Medium,Low
+63432, Average,Low,Low,High,Low
+63438,Below Average,High,Low,High, Medium
+63440,Above Average,Low, Medium,High,Low
+63456,Below Average,Low,Low,Low,Low
+63458, Average,Low,Low,High,Low
+63459,Below Average, Medium,Low, Medium,Low
+63468, Average,Low,Low,High,Low
+63475,Below Average, Medium,Low,Low,Low
+63479,Below Average,Low,Low,Low,Low
+63492,Below Average,Low,Low, Medium,Low
+63494,Below Average, Medium,Low,Low,Low
+63508,Above Average,Low, Medium, Medium,Low
+63514, Average,Low,Low,Low,High
+63519,Above Average,Low,Low,High,Low
+63523, Average,Low,Low,High,Low
+63526,Below Average, Medium,Low,High, Medium
+63528,Above Average,Low, Medium,High,Low
+63568,Below Average,Low,Low,Low,Low
+63735,Above Average,Low,Low,High, Medium
+63739,Above Average,Low, Medium,High, Medium
+63745,Above Average, Medium, Medium,High,Low
+63748, Average,Low, Medium,High,Low
+63767, Average, Medium,Low,Low,Low
+63768,Below Average,Low,Low, Medium, Medium
+63790, Average, Medium,Low, Medium,Low
+63811,Below Average,Low,Low,Low,Low
+63812,Below Average,High,Low,Low,Low
+63823,Below Average,High,Low,High,Low
+63842,Above Average, Medium,Low,High,High
+63843,Above Average,Low, Medium,High, Medium
+63983, Average,Low,Low,Low,Low
+63994,Below Average,High,Low,Low, Medium
+64031,Below Average,High,Low,Low,Low
+64074,Below Average,Low,Low,Low, Medium
+64325, Average,Low, Medium,Low,High
+64332,Below Average, Medium,Low,Low,Low
+64338,Below Average,Low,Low,Low,Low
+64346,Below Average, Medium,Low,Low,Low
+64355, Average,High,Low,High,Low
+64373,Above Average, Medium, Medium,High, Medium
+64375,Below Average, Medium,Low,Low,Low
+64753,Below Average,Low,Low,Low,Low
+64767, Average,Low,Low,High,Low
+64783, Average, Medium,Low,High,Low
+64785,Below Average,Low,Low,Low,Low
+64791,Below Average,High,Low,Low,Low
+64797,Below Average, Medium,Low,Low, Medium
+64803,Above Average, Medium,Low, Medium,Low
+64850,Above Average, Medium,Low,High,Low
+64856,Below Average, Medium,Low,Low,High
+65024,Above Average,Low, Medium,High,Low
+65025,Above Average,Low,Low,High,Low
+65048, Average, Medium,Low, Medium,Low
+65061,Below Average,Low,Low,Low, Medium
+65066,Below Average,High,Low,Low,Low
+65067,Below Average,High,Low,Low,Low
+65073, Average,Low,Low, Medium, Medium
+65081,Below Average,Low,Low,Low,Low
+65084,Below Average,Low,Low,Low,Low
+65097,Below Average,High,Low,Low,Low
+65220,Below Average,High,Low,High, Medium
+65223,Below Average,Low,Low,Low,Low
+65281, Average,Low,Low, Medium,Low
+65444, Average, Medium,Low, Medium,High
+65450, Average,Low,Low,Low,Low
+65453,Below Average,Low,Low,High,Low
+65459,Below Average,High,Low,Low,Low
+65462, Average,Low,Low, Medium,Low
+65495,Below Average, Medium,Low, Medium,Low
+65498,Below Average,Low,Low,Low,Low
+65504,Below Average,Low,Low, Medium,Low
+65663,Below Average,High,Low,Low,Low
+65708,Below Average,High,Low,Low,Low
+65827,Above Average,Low,Low,High,Low
+65832,Above Average,Low, Medium,High,Low
+65900,Below Average,Low,Low,Low,Low
+65920,Above Average,Low,Low,High,Low
+66247, Average, Medium,Low, Medium, Medium
+66251,Above Average,Low,Low,High,Low
+66262,Below Average,High,Low,Low, Medium
+66270,Below Average,Low,Low,Low,Low
+66272,Above Average, Medium,Low,High,High
+66282,Below Average,High,Low, Medium,Low
+66313,Above Average, Medium,Low, Medium,Low
+66419, Average, Medium, Medium,High,Low
+66430, Average,Low,Low, Medium,Low
+66449,Below Average, Medium,Low,Low,Low
+66461,Below Average,Low,Low,Low,Low
+66494,Below Average,High,Low,Low,Low
+66497, Average,Low,Low, Medium,Low
+66502,Below Average,Low,Low,Low,Low
+66642, Average,Low,Low,High,Low
+66645,Above Average,Low,Low,Low,Low
+66648,Below Average,Low,Low,Low,Low
+66656,Above Average,Low, Medium,High,Low
+66665,Below Average, Medium,Low,Low,High
+66900,Below Average,Low,Low, Medium,Low
+66904,Above Average,Low,Low,High, Medium
+66950,Above Average, Medium,Low,High,Low
+66965,Above Average, Medium,Low,High,Low
+67126,Above Average,Low,Low,High, Medium
+67169,Below Average, Medium,Low,Low, Medium
+67806,Below Average,Low,Low,Low,Low
+68000,Below Average,Low,Low,Low, Medium
+68194,Below Average,High,Low,Low,Low
+68241, Average,Low,Low, Medium,High
+68445, Average, Medium,Low, Medium, Medium
+68474,Below Average, Medium,Low,Low,Low
+68644, Average,Low,Low,High,Low
+68793,Above Average,Low,Low,High,Low
+68795,Above Average,Low,Low,High, Medium
+70354,Below Average,Low,Low,Low, Medium
+70607,Below Average,Low,Low,Low,High
+70633,Below Average, Medium,Low, Medium,Low
+70653,Below Average, Medium,Low,Low, Medium
+71111,Below Average,Low,Low,Low,Low
+71187,Below Average,High,Low,Low,Low
+71413,Above Average,Low,Low, Medium, Medium
+71431,Above Average,Low,Low, Medium, Medium
+71457,Below Average,High,Low,Low,Low
+71463, Average, Medium,Low,High,Low
+71642, Average, Medium,Low,High,Low
+71653,Below Average,Low,Low,Low,Low
+71662,Below Average,High,Low,Low,Low
+71879,Above Average,Low,Low,High,Low
+71898,Below Average,Low,Low,Low,Low
+72104,Above Average,Low,Low,High,Low
+72130,Below Average, Medium,Low,Low,Low
+72193,Below Average,Low,Low,Low,Low
+72356,Below Average,High,Low,Low, Medium
+72371,Above Average,Low,Low, Medium,Low
+72428, Average,Low,Low, Medium,Low
+72448,Below Average,Low,Low,Low,Low
+72464,Below Average,Low,Low,Low,High
+72491, Average,Low,Low,Low,Low
+72931, Average,Low,Low, Medium,Low
+72952,Above Average,Low,Low,High,Low
+72957,Below Average, Medium,Low,Low,Low
+73005,Below Average,Low,Low,Low, Medium
+73014,Below Average,High,Low,Low, Medium
+73180,Below Average,Low,Low,Low,Low
+73188,Below Average,Low,Low,Low,Low
+73202,Above Average, Medium,Low,High,Low
+73209,Below Average,Low,Low, Medium,Low
+73430,Below Average,Low,Low,Low,Low
+73488,Below Average,Low,Low,Low,Low
+73678,Below Average,High,Low,Low,Low
+73680, Average,Low,Low, Medium,Low
+73681, Average,High,Low, Medium,Low
+73720, Average,Low,Low, Medium,Low
+73732,Below Average,Low,Low,Low,Low
+73751, Average,Low,Low, Medium,Low
+73802,Below Average, Medium,Low, Medium,High
+73918,Below Average,High,Low,Low, Medium
+73934,Above Average,Low,Low,High,Low
+74142,Below Average,High,Low,Low,Low
+74182, Average,Low,Low,Low,Low
+74568, Average,High,Low, Medium,Low
+74582, Average,Low,Low,High,Low
+74583,Below Average,Low,Low,Low,Low
+74600,Above Average,Low,Low,High,Low
+74603,Below Average,Low,Low,Low,Low
+74645, Average,High,Low, Medium,Low
+74803, Average,Low,Low,High,High
+74805,Above Average,High,Low,High,Low
+74844,Above Average,Low,Low,High,Low
+74885,Below Average,Low,Low,Low,Low
+74992,Below Average,High,Low,Low,Low
+75042,Below Average,Low,Low, Medium,Low
+75044,Below Average,Low,Low,Low,Low
+75096,Below Average,High,Low,Low,Low
+75107,Below Average,High,Low,Low, Medium
+75115,Above Average, Medium,Low,High,Low
+75374, Average,Low,Low, Medium,Low
+75385,Below Average,Low,Low,Low,Low
+75394,Below Average,High,Low,Low,Low
+75541,Below Average,Low,Low, Medium,Low
+75543,Above Average,Low,Low,High,Low
+75581,Below Average,Low,Low,Low,Low
+75604,Above Average,Low,Low,High,Low
+75605, Average,Low,Low,High,Low
+75723,Below Average,Low,Low, Medium,Low
+75724,Above Average,Low,Low,High,Low
+75737, Average, Medium,Low, Medium, Medium
+75746,Below Average,High,Low,Low,Low
+75758,Above Average, Medium,Low, Medium,High
+75796,Below Average,Low,Low,Low,Low
+76175, Average,Low,Low,High,Low
+76193,Above Average,High,Low,High,Low
+76211,Above Average,Low,Low,High,Low
+76224,Below Average,High,Low,Low,Low
+76234,Above Average, Medium,Low,High, Medium
+76278,Below Average,Low,Low,Low,Low
+76296,Above Average,Low,Low,High,Low
+76379,Below Average,Low,Low,Low,Low
+76399,Below Average,High,Low,Low,Low
+76417,Below Average, Medium,Low, Medium,High
+76420, Average,High,Low,Low,Low
+76469,Below Average,High,Low,Low,Low
+76586,Below Average,High,Low,Low, Medium
+76598,Below Average,High,Low, Medium,Low
+76600,Below Average,Low,Low,Low,Low
+76603,Below Average,High,Low,Low,Low
+76604,Below Average, Medium,Low, Medium, Medium
+76608, Average,Low,Low,High,High
+76611,Below Average,Low,Low,Low, Medium
+76656,Below Average,Low,Low,Low,Low
+76801,Above Average,Low,Low,High,Low
+76831,Above Average,Low,Low,High,Low
+76833,Below Average,Low,Low,Low,Low
+76859,Below Average,High,Low,Low,Low
+77049,Below Average,High,Low,Low,Low
+77118,Above Average,Low,Low,High,Low
+77283, Average,Low,Low, Medium,Low
+77298,Above Average,Low,Low,High,Low
+77317,Below Average,Low,Low,High,Low
+77329,Below Average,High,Low,Low, Medium
+77656,Below Average,Low,Low,Low,Low
+77670,Below Average,Low,Low, Medium, Medium
+77683,Below Average,Low,Low,Low,Low
+77729,Below Average,Low,Low,Low,Low
+,,,,,Low
+,,,,,Low
+,,,,, Medium
+,,,,,Low
+,,,,,Low
+,,,,, Medium
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,,High
+,,,,,High
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,, Medium
+,,,,, Medium
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,,Low
+,,,,,Low
